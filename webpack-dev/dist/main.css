@@ -1,0 +1,12 @@
+body {
+    color: yellow
+}
+body {
+    background: red;
+    /* transform: rotate(45deg) */
+    background: url(img/e8db77b97d2013598cb21cba02d7ea54.jpg)
+}
+body div {
+  border: 1px solid #eee;
+}
+
